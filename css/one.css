@@ -219,7 +219,7 @@ header nav .form i {
 
 /* start landing */
 .landing {
-  background-image: url(/image/3D.jpg);
+  background-image: url(../image/3D.jpg);
   height: 100vh;
   background-size: cover;
   background-blend-mode: overlay;
@@ -372,7 +372,7 @@ header nav .form i {
 .design .image {
   height: 70vh;
   width: 100%;
-  background-image: url(/image/hello.webp);
+  background-image: url(../image/hello.webp);
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, .6);
 }
@@ -600,7 +600,7 @@ header nav .form i {
 
 /* Start Footer */
 .footer {
-  background-image: url(/image/4.jpg);
+  background-image: url(../image/4.jpg);
   background-size: cover;
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, .9);
